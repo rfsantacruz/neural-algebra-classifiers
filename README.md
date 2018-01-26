@@ -1,4 +1,4 @@
-# Neural Algebra of Xlassifiers
+# Neural Algebra of Classifiers
 Code and Data for our WACV'18 paper. If you find this useful, please consider citing
 
 @inproceedings{SantaCruz:WACV2018,
