@@ -1,0 +1,100 @@
+name: zsl_env
+channels: !!python/tuple
+- defaults
+dependencies:
+- cvxopt=1.1.8=py35_4
+- cycler=0.10.0=py35_0
+- dbus=1.10.10=0
+- expat=2.1.0=0
+- fontconfig=2.12.1=3
+- freetype=2.5.5=2
+- glib=2.50.2=1
+- gst-plugins-base=1.8.0=0
+- gstreamer=1.8.0=0
+- h5py=2.6.0=np111py35_2
+- hdf5=1.8.17=1
+- icu=54.1=0
+- jbig=2.1=0
+- joblib=0.11=py35_0
+- jpeg=8d=2
+- libffi=3.2.1=1
+- libgcc=5.2.0=0
+- libgfortran=3.0.0=1
+- libiconv=1.14=0
+- libpng=1.6.27=0
+- libtiff=4.0.6=2
+- libxcb=1.12=1
+- libxml2=2.9.4=0
+- matplotlib=2.0.0=np111py35_0
+- mkl=2017.0.1=0
+- numpy=1.11.3=py35_0
+- olefile=0.44=py35_0
+- opencv=3.1.0=np111py35_1
+- openssl=1.0.2j=0
+- pandas=0.19.2=np111py35_1
+- pcre=8.39=1
+- pillow=3.4.2=py35_0
+- pip=9.0.1=py35_1
+- pyparsing=2.2.0=py35_0
+- pyqt=5.6.0=py35_2
+- python=3.5.2=0
+- python-dateutil=2.6.0=py35_0
+- pytz=2016.10=py35_0
+- qt=5.6.2=2
+- readline=6.2=2
+- scikit-learn=0.18.1=np111py35_1
+- scipy=0.18.1=np111py35_1
+- setuptools=27.2.0=py35_0
+- sip=4.18=py35_0
+- six=1.10.0=py35_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- werkzeug=0.11.15=py35_0
+- wheel=0.29.0=py35_0
+- xz=5.2.2=1
+- zlib=1.2.8=3
+- pip:
+  - anytree==2.2.1
+  - autograd==1.1.10
+  - backports.weakref==1.0rc1
+  - bleach==1.5.0
+  - boltons==17.1.0
+  - boto==2.46.1
+  - bz2file==0.98
+  - cvxcanon==0.1.1
+  - cvxpy==0.4.10
+  - decorator==4.0.11
+  - dill==0.2.6
+  - easydict==1.6
+  - ecos==2.0.4
+  - fastcache==1.0.2
+  - future==0.16.0
+  - gensim==1.0.1
+  - html5lib==0.9999999
+  - ipython==5.3.0
+  - ipython-genutils==0.2.0
+  - keras==2.0.6
+  - line-profiler==2.0
+  - markdown==2.6.8
+  - multiprocess==0.70.5
+  - pexpect==4.2.1
+  - pickleshare==0.7.4
+  - prompt-toolkit==1.0.14
+  - protobuf==3.3.0
+  - ptyprocess==0.5.1
+  - pydot==1.2.3
+  - pydot-ng==1.0.0
+  - pygments==2.2.0
+  - pymanopt==0.2.2
+  - pyyaml==3.12
+  - requests==2.13.0
+  - scs==1.2.6
+  - simplegeneric==0.8.1
+  - smart-open==1.5.1
+  - tensorflow-gpu==1.2.1
+  - theano==0.9.0
+  - toolz==0.8.2
+  - traitlets==4.3.2
+  - wcwidth==0.1.7
+prefix: /home/rfsc/Libs/anaconda3/envs/zsl_env
+
